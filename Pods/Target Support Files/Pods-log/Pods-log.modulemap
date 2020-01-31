@@ -1,0 +1,6 @@
+framework module Pods_log {
+  umbrella header "Pods-log-umbrella.h"
+
+  export *
+  module * { export * }
+}
